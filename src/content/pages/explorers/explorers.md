@@ -14,4 +14,5 @@ explorerList:
   - xcpdex.md
   - tokenscan.md
   - xcp-ninja.md
+  - countertools.md
 ---
